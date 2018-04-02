@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Splash Screen</string>
+    <string name="splash_android">Splash Android</string>
+    <string name="todo">TODO</string>
+    <string name="welcome">Welcome</string>
+    <string name="submit">Submit</string>
+</resources>
